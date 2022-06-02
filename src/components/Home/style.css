@@ -1,0 +1,12 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.cardsList-container {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
